@@ -1,3 +1,12 @@
+## Plac Documentation
+
+Since the original plac project on github seems to be dormant, I've hosted the documentation for plac here.
+
+https://cdn.rawgit.com/viksit/plac/master/doc/plac.html
+
+
+## Original README contents
+```
 Installation
 -------------
 
@@ -49,10 +58,9 @@ Run an ``easy_install -U sqlalchemy`` or just ignore them.
 
 Documentation
 --------------
+This is a hosted version of the html file here.
 
-The source code and the documentation are hosted on Google code.
-Here is the full documentation in HTML and PDF form:
+https://cdn.rawgit.com/viksit/plac/master/doc/plac.html
 
-http://plac.googlecode.com/hg/doc/plac.html
 
-http://plac.googlecode.com/hg/doc/plac.pdf
+```
